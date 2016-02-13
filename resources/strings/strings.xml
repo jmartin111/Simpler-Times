@@ -1,0 +1,22 @@
+<strings>
+    <string id="AppName">simpler_times</string>
+    <string id="deviceModel">fr235</string>
+    <string id="TimeColorTitle">Set Time Color</string>
+    <string id="BackgroundColorTitle">Set Background Color</string>
+    <!-- string id="TimeFormatTitle">Time Format</string>
+    <string id="Standard">12 HOUR</string>
+    <string id="Military">24 HOUR</string-->
+    
+    <string id="ColorDarkGray">Dark Gray</string>
+    <string id="ColorLightGray">Light Gray</string>
+    <string id="ColorWhite">White</string>
+    <string id="ColorDarkRed">Dark Red</string>
+    <string id="ColorYellow">Yellow</string>
+    <string id="ColorGreen">Green</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorLtBlue">Light Blue</string>
+    <string id="ColorBlack">Black</string>
+    <string id="ColorPurple">Purple</string>
+    <string id="ColorPink">Pink</string>
+    <string id="ColorOrange">Orange</string>   
+</strings>

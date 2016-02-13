@@ -1,0 +1,58 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="BluetoothIconWhite" x="113" y="26" filename="../images/bluetoothwhite.png" dithering="none" >
+    	<palette disableTransparency="false">
+            <color>FFFFFF</color>
+            <color>000000</color>
+        </palette>
+    </bitmap> 
+    <bitmap id="BluetoothIconBlack" x="113" y="26" filename="../images/bluetoothblack.png" dithering="none" >
+    	<palette disableTransparency="false">
+            <color>000000</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="BluetoothIconBlackForGray" x="113" y="26" filename="../images/bluetoothblackforgray.png" dithering="none" >
+    	<palette disableTransparency="false">
+            <color>000000</color>
+            <color>AAAAAA</color>
+        </palette>
+    </bitmap>
+    <bitmap id="EnergyIconWhite" x="141" y="26" filename="../images/energywhite.png" dithering="none" >
+    	<palette disableTransparency="false">
+            <color>FFFFFF</color>
+            <color>000000</color>
+        </palette>
+    </bitmap> 
+    <bitmap id="EnergyIconBlack" x="141" y="26" filename="../images/energyblack.png" dithering="none" >
+    	<palette disableTransparency="false">
+            <color>000000</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="EnergyIconBlackForGray" x="141" y="26" filename="../images/energyblackforgray.png" dithering="none" >
+    	<palette disableTransparency="false">
+            <color>000000</color>
+            <color>AAAAAA</color>
+        </palette>
+    </bitmap>
+    <bitmap id="NotificationIconWhite" x="141" y="26" filename="../images/notifywhite.png" dithering="none" >
+    	<palette disableTransparency="false">
+            <color>FFFFFF</color>
+            <color>000000</color>
+        </palette>
+    </bitmap> 
+    <bitmap id="NotificationIconBlack" x="141" y="26" filename="../images/notifyblack.png" dithering="none" >
+    	<palette disableTransparency="false">
+            <color>000000</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="NotificationIconBlackForGray" x="141" y="26" filename="../images/notifyblackforgray.png" dithering="none" >
+    	<palette disableTransparency="false">
+            <color>000000</color>
+            <color>AAAAAA</color>
+        </palette>
+    </bitmap>    
+</drawables>
+
