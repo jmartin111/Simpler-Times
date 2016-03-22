@@ -166,7 +166,7 @@ class MyGridView extends Ui.WatchFace {
 			dc.drawLine(0, (height/2) - 61, (width), (height/2) - 61); // top hline
 			dc.drawRoundedRectangle(0, height - 48, width/2 - 5, 22, 5);
 			dc.drawRoundedRectangle(width/2 + 5, height - 48, width/2, 22, 5);			
-		} else if (device.equals("fenix3") || device.equals("d2bravo")) {
+		} else if (device.equals("fenix3") || device.equals("fenix3_hr") || device.equals("d2bravo")) {
 			if (btLink) { dc.drawBitmap(152, 49, btImage); }
 			dc.drawBitmap(166, 49, notificationImage);
 			dc.drawBitmap(25, 49, energyImage);
