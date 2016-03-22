@@ -1,7 +1,7 @@
 <layout id="MainLayout">
 	<drawable class="Background" />
 	<!-- bitmap id="RunnerIcon" x="center" y="center" filename="../../resources/drawables/race10_64px.png" /-->
-	<label id="TimeLabel" x="center" y="20" font="Gfx.FONT_NUMBER_THAI_HOT" 
+	<label id="TimeLabel" x="center" y="30" font="Gfx.FONT_NUMBER_THAI_HOT" 
     	   justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_YELLOW" />
     
     <!-- label id="DayOfWeekLabel" x="95" y="39" font="Gfx.FONT_MEDIUM" 
